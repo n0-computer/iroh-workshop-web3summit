@@ -1,3 +1,5 @@
+Latest version of this workshop is at https://github.com/n0-computer/iroh-workshop-omniopencon
+
 # Code for the iroh workshop @ Web3Summit 2024
 
 ## Discord (to exchange tickets etc)
